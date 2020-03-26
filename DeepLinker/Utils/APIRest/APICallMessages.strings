@@ -1,0 +1,31 @@
+/*
+  APICallErrorMessages.strings
+  Padam
+
+  Created by Hugo Bosc-Ducros on 02/03/2017.
+  Copyright © 2017 OPTIWAYS SAS. All rights reserved.
+*/
+
+
+/********
+ MARK: - API response managing
+ ********/
+
+"HTTP_ERROR_MESSAGE_BEGININ" = "An internal error has occurred\n(code ";
+"HTTP_ERROR_MESSAGE_END" = ")";
+"HTTP_3000_ERROR_END_MESSAGE" = "\nPlease try again";
+"TIMEOUT_ERROR_MESSAGE" = "Connection error, please try again";
+"NETWORK_ERROR_MESSAGE" = "Please check your internet connection";
+
+
+//server test
+"SERVER_TEST_SUCCEED_MESSAGE" = "Test succeed!";
+"SERVER_TEST_WITH_TOKEN_SUCCED_MESSAGE" = "Token reconized!";
+
+
+/**********
+MARK: - Google API
+**********/
+
+"FAILED_GET_USER_LOCATION" = "Impossible to get your location";
+"FAILED_GET_PLACE_DETAILS" = "Impossible to find your location";

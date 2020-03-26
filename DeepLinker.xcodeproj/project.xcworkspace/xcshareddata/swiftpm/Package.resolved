@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HBAutocomplete",
+        "repositoryURL": "https://github.com/HugoBoscDucros/HBAutocomplete",
+        "state": {
+          "branch": null,
+          "revision": "002724b340764bb8d0eb46d4f344cb946463717d",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
