@@ -15,7 +15,7 @@ class SearchAddressViewController: UITableViewController, HBAutoCompleteActionsD
     
     var searchController = UISearchController(searchResultsController: nil)
     var autocomplete: HBAutocomplete!
-    var autocompleteDataSource = AddressAutocompleteDataSource()
+    var autocompleteDataSource = GooglePlaceAutocompleteDataSource()
     var completion:((_ selectedAddress:String) -> ())?
 
     override func viewDidLoad() {
